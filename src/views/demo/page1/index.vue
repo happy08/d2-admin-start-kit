@@ -1,7 +1,7 @@
 <template>
   <d2-container>
     <template slot="header">Page 1 header</template>
-    Hello World
+    Hello World1
   </d2-container>
 </template>
 
